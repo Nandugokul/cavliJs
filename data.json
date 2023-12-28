@@ -1,0 +1,227 @@
+[
+  {
+    "category": "C10GS",
+    "products": [
+      {
+        "productId": 1,
+        "productName": "C10GS-A1",
+        "regionOfTesting": ["APAC"],
+        "eSim": "YES",
+        "formFactors": ["M.2", "minPIC", "LGA"]
+      },
+      {
+        "productId": 2,
+        "productName": "C10GS-A2",
+        "regionOfTesting": ["APAC"],
+        "eSim": "NO",
+        "formFactors": ["M.2"]
+      },
+      {
+        "productId": 3,
+        "productName": "C10GS-A3",
+        "regionOfTesting": ["APAC", "NAM"],
+        "eSim": "YES",
+        "formFactors": ["M.2"]
+      },
+      {
+        "productId": 4,
+        "productName": "C10GS-A4",
+        "regionOfTesting": ["APAC", "SAM"],
+        "eSim": "NO",
+        "formFactors": ["M.2"]
+      },
+      {
+        "productId": 5,
+        "productName": "C10GS-A5",
+        "regionOfTesting": ["SAM"],
+        "eSim": "NO",
+        "formFactors": ["minPIC"]
+      },
+      {
+        "productId": 6,
+        "productName": "C10GS-A6",
+        "regionOfTesting": ["GLOBAL"],
+        "eSim": "NO",
+        "formFactors": ["minPIC"]
+      },
+      {
+        "productId": 7,
+        "productName": "C10GS-A7",
+        "regionOfTesting": ["GLOBAL"],
+        "eSim": "NO",
+        "formFactors": ["LGA"]
+      },
+      {
+        "productId": 8,
+        "productName": "C10GS-A8",
+        "regionOfTesting": ["GLOBAL"],
+        "eSim": "YES",
+        "formFactors": ["LGA"]
+      },
+      {
+        "productId": 9,
+        "productName": "C10GS-A9",
+        "regionOfTesting": ["GLOBAL"],
+        "eSim": "YES",
+        "formFactors": ["M.2", "MiniPCI"]
+      },
+      {
+        "productId": 10,
+        "productName": "C10GS-A10",
+        "regionOfTesting": ["NAM", "SAM", "EU", "GLOBAL"],
+        "eSim": "YES",
+        "formFactors": ["M.2", "minPIC", "LGA"]
+      },
+      {
+        "productId": 11,
+        "productName": "C10GS-A11",
+        "regionOfTesting": ["NAM", "SAM", "EU", "GLOBAL"],
+        "eSim": "NO",
+        "formFactors": ["M.2"]
+      }
+    ]
+  },
+  {
+    "category": "C20QM",
+    "products": [
+      {
+        "productId": 12,
+        "productName": "C20QM-A1",
+        "regionOfTesting": ["NAM", "SAM", "EU", "APAC"],
+        "eSim": "NO",
+        "formFactors": ["M.2"]
+      },
+      {
+        "productId": 13,
+        "productName": "C20QM-A2",
+        "regionOfTesting": ["NAM", "SAM"],
+        "eSim": "NO",
+        "formFactors": ["M.2"]
+      },
+      {
+        "productId": 14,
+        "productName": "C20QM-A3",
+        "regionOfTesting": ["NAM", "SAM"],
+        "eSim": "NO",
+        "formFactors": ["minPIC"]
+      },
+      {
+        "productId": 15,
+        "productName": "C20QM-A4",
+        "regionOfTesting": ["NAM", "SAM"],
+        "eSim": "NO",
+        "formFactors": ["minPIC"]
+      },
+      {
+        "productId": 16,
+        "productName": "C20QM-A5",
+        "regionOfTesting": ["NAM", "SAM"],
+        "eSim": "NO",
+        "formFactors": ["LGA"]
+      },
+      {
+        "productId": 17,
+        "productName": "C20QM-A6",
+        "regionOfTesting": ["NAM", "SAM"],
+        "eSim": "NO",
+        "formFactors": ["LGA"]
+      },
+      {
+        "productId": 18,
+        "productName": "C20QM-A7",
+        "regionOfTesting": ["NAM", "SAM"],
+        "eSim": "NO",
+        "formFactors": ["M.2", "MiniPCI"]
+      }
+    ]
+  },
+  {
+    "category": "C16QS",
+    "products": [
+      {
+        "productId": 19,
+        "productName": "C16QS-A1",
+        "regionOfTesting": ["SAM", "EU", "GLOBAL"],
+        "eSim": "NO",
+        "formFactors": ["LGA"]
+      },
+      {
+        "productId": 20,
+        "productName": "C16QS-A2",
+        "regionOfTesting": ["GLOBAL"],
+        "eSim": "NO",
+        "formFactors": ["M.2", "minPIC", "LGA"]
+      },
+      {
+        "productId": 21,
+        "productName": "C16QS-A3",
+        "regionOfTesting": ["GLOBAL"],
+        "eSim": "YES",
+        "formFactors": ["M.2"]
+      },
+      {
+        "productId": 22,
+        "productName": "C16QS-A4",
+        "regionOfTesting": ["GLOBAL"],
+        "eSim": "YES",
+        "formFactors": ["M.2"]
+      },
+      {
+        "productId": 23,
+        "productName": "C16QS-A5",
+        "regionOfTesting": ["GLOBAL"],
+        "eSim": "YES",
+        "formFactors": ["M.2"]
+      },
+      {
+        "productId": 24,
+        "productName": "C16QS-A6",
+        "regionOfTesting": ["GLOBAL"],
+        "eSim": "NO",
+        "formFactors": ["minPIC"]
+      },
+      {
+        "productId": 25,
+        "productName": "C16QS-A7",
+        "regionOfTesting": ["NAM"],
+        "eSim": "NO",
+        "formFactors": ["minPIC"]
+      },
+      {
+        "productId": 26,
+        "productName": "C16QS-A2",
+        "regionOfTesting": ["NAM"],
+        "eSim": "NO",
+        "formFactors": ["LGA"]
+      },
+      {
+        "productId": 27,
+        "productName": "C16QS-A3",
+        "regionOfTesting": ["NAM"],
+        "eSim": "NO",
+        "formFactors": ["LGA"]
+      },
+      {
+        "productId": 28,
+        "productName": "C16QS-A4",
+        "regionOfTesting": ["SAM", "EU"],
+        "eSim": "NO",
+        "formFactors": ["M.2", "MiniPCI"]
+      },
+      {
+        "productId": 29,
+        "productName": "C16QS-A5",
+        "regionOfTesting": ["SAM", "EU"],
+        "eSim": "NO",
+        "formFactors": ["LGA"]
+      },
+      {
+        "productId": 30,
+        "productName": "C16QS-A6",
+        "regionOfTesting": ["SAMEU"],
+        "eSim": "YES",
+        "formFactors": ["LGA"]
+      }
+    ]
+  }
+]
