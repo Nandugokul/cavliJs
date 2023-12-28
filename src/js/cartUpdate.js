@@ -110,7 +110,6 @@ addToCartButton.addEventListener("click", async () => {
         (cartItem) => cartItem.uniqueId === item.uniqueId
       );
       item.quantity = cartItem ? cartItem.quantity : 0;
-      console.log(item);
       return true;
     }
     return false;
